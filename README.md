@@ -1,2 +1,2 @@
 - Nickname: Poom
-- Favorite Game: ...
+- Favorite Game: Varolant
